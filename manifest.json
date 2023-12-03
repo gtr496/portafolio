@@ -1,0 +1,47 @@
+{
+    "name":"PWA",
+    "short_name":"PWAIDGS10",
+    "start_url":"index.html",
+    "description":"Esta es mi primer PWA en clase",
+    "display":"standalone",
+    "orientation":"portrait",
+    "backgrownd_color":"#fff",
+    "theme_color":"#fff",
+    "icons":[
+        {
+            "src":"img/icons/Icon-72.png",
+            "Type":"image/png",
+            "sizes":"72x72"
+        },
+        {
+            "src":"img/icons/Icon-120.png",
+            "Type":"image/png",
+            "sizes":"120x120"
+        },
+        {
+            "src":"img/icons/Icon-128.png",
+            "Type":"image/png",
+            "sizes":"128x128"
+        },
+        {
+            "src":"img/icons/Icon-144.png",
+            "Type":"image/png",
+            "sizes":"144x144"
+        },
+        {
+            "src":"img/icons/Icon-152.png",
+            "Type":"image/png",
+            "sizes":"152x152"
+        },
+        {
+            "src":"img/icons/Icon-196.png",
+            "Type":"image/png",
+            "sizes":"196x196"
+        },
+        {
+            "src":"img/icons/Icon-256.png",
+            "Type":"image/png",
+            "sizes":"256x256"
+        }
+    ]
+}
