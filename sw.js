@@ -5,6 +5,7 @@ const archivosCache =[
     "/css/styles.css",
     "/css/styles1.css",
     "/js/app.js",
+    "/js/scroll.js",
     "/img/perfil.jpg",
     "/img/img1.jpg",
     "/img/programer1.jpg",

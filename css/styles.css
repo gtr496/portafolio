@@ -304,6 +304,7 @@ body::-webkit-scrollbar {
 	display: flex;
 	max-width: 1100px;
 	margin: auto;
+  font-family: 'Century Gothic', sans-serif;
 }
 .title-cards{
 	width: 100%;
@@ -368,4 +369,7 @@ body::-webkit-scrollbar {
 	.card{
 		margin: 15px;
 	}
+}
+.select{
+  padding: 10px;
 }
