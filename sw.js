@@ -10,7 +10,7 @@ const archivosCache =[
     "/img/img1.jpg",
     "/img/programer1.jpg",
     "/img/tecnico.jpg",
-    "/img/soporte.jpg"
+    "/img/soporte-tecnico-integral.jpg"
 
 ]
 

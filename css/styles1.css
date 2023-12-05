@@ -13,6 +13,11 @@
         background-attachment: fixed;
         font-family: 'Century Gothic', sans-serif;
     }
+    @font-face {
+      font-family: '../';
+      src: url('../fonts/Roboto-Black.ttf') format('woff2');
+      font-display: swap;
+    }
     
     body::-webkit-scrollbar {
         width: 0.25rem;
@@ -50,10 +55,6 @@
       
       .nav-item {
         width: 100%;
-      }
-      
-      .nav-item:last-child {
-        margin-top: auto;
       }
       
       .nav-link {
@@ -291,6 +292,8 @@ border-radius: 15px;
 }
 
 .caja-img {
+ width: 180px;
+ height: 100%;
 border-radius: 50%;
 }
 
